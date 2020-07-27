@@ -1,0 +1,23 @@
+{
+  "name": "shoppingcart",
+  "version": "1.0.0",
+  "description": "this is shopping cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeetunayak1/GoaKart.git"
+  },
+  "keywords": [
+    "shopping",
+    "online"
+  ],
+  "author": "jeetunayak1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeetunayak1/GoaKart/issues"
+  },
+  "homepage": "https://github.com/jeetunayak1/GoaKart#readme"
+}
